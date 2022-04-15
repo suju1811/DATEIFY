@@ -1,3 +1,15 @@
+# About DATEIFY
+Our Webapp is an online dating platform with simple and cool :innocent: UI where user can explore and find their best matches :sparkling_heart:.\
+Our app contains various features like Login/Signup with google , users can upload their pictures , Like and Super like buttons :star_struck:.\
+and we are also working on some more features like live chat and audio/video calling which are enable within some days. We will do this work very soon and after this we will host our app!!
+We are attaching some photo of our Webapp how it looks like after hosting
+
+This app is fully based on react native for frontend and mongoose and mongoDB for backend.
+
+We are working on the some other special features for this app.After some remaining work is done we will also host our app!!
+
+Created with Love :heart:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
